@@ -42,4 +42,4 @@ The experimental skin data used here is detailed in “Human Digital Twin: Autom
 
 ### Visualization
 
-{% include ../pilots/viz1.html %}
+{% include pilots/viz1.html %}
