@@ -14,7 +14,7 @@ This so-called ASCT+B Reporter Comparison visualization was designed for differe
 3. Editors/Reviewers interested to understand what AS, CT, B a new atlas publication adds.
 4. Funders/other decision makers that want to know what old/new AS, CT, B a proposed experiment adds.
 
-The visualization uses the ASCT+B Reporter at https://hubmapconsortium.github.io/ccf-asct-reporter to compare an ASCT+B table that documents all AS, CT, B used in a paper (or proposed experiment) to the most recent ASCT+B Master table.  
+The visualization uses the [ASCT+B Reporter](https://hubmapconsortium.github.io/ccf-asct-reporter) to compare an ASCT+B table that documents all AS, CT, B used in a paper (or proposed experiment) to the most recent ASCT+B Master table.  
 
 Specifically, we compare GE Skin data to the skin ASCT+B table, the interactive visualization is below. Videos on ASCT+B Reporter usage and code [documentation](https://hubmapconsortium.github.io/ccf-asct-reporter/). 
 
@@ -44,6 +44,6 @@ The experimental skin data used here is detailed in “Human Digital Twin: Autom
 ### Visualization
 
 <div class="video-container">
-    <iframe src="https://hubmapconsortium.github.io/ccf-asct-reporter/vis?selectedOrgans=skin-v1.1&playground=false&comparisonCSVURL=https:%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1ebxX1VmZXrxjfxZC8DdxtPjTGQLId9NBja71ii939c8%2Fedit%23gid%3D0&comparisonColor=%23ff8000" height="450" width="800" allowfullscreen="" frameborder="0">
+    <iframe src="https://hubmapconsortium.github.io/ccf-asct-reporter/vis?selectedOrgans=skin-v1.1&playground=false&comparisonCSVURL=https:%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1ebxX1VmZXrxjfxZC8DdxtPjTGQLId9NBja71ii939c8%2Fedit%23gid%3D0&comparisonColor=%23ff8000" height="450" width="100%" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
