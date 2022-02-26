@@ -44,6 +44,6 @@ The experimental skin data used here is detailed in “Human Digital Twin: Autom
 ### Visualization
 
 <div class="video-container">
-    <iframe src="https://hubmapconsortium.github.io/ccf-asct-reporter/vis?selectedOrgans=skin-v1.1&playground=false&comparisonCSVURL=https:%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1ebxX1VmZXrxjfxZC8DdxtPjTGQLId9NBja71ii939c8%2Fedit%23gid%3D0&comparisonColor=%23ff8000" height="50vh" width="100vw" allowfullscreen="" frameborder="0">
+    <iframe src="https://hubmapconsortium.github.io/ccf-asct-reporter/vis?selectedOrgans=skin-v1.1&playground=false&comparisonCSVURL=https:%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1ebxX1VmZXrxjfxZC8DdxtPjTGQLId9NBja71ii939c8%2Fedit%23gid%3D0&comparisonColor=%23ff8000" height="450" width="800" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
