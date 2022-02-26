@@ -11,7 +11,8 @@ This so-called ASCT+B Reporter Comparison visualization was designed for differe
 
 1. Researchers interested to compare their experimental data with existing ASCT+B master tables to confirm existing AS/CT/B and identify novel contributions.
 2. Atlas designers interested to understand and improve quality and coverage of the Human Reference Atlas, [see](https://www.nature.com/articles/s41556-021-00788-6).
-3. Editors/Reviewers interested to understand what AS, CT, B a new atlas publication adds. (4) Funders/other decision makers that want to know what old/new AS, CT, B a proposed experiment adds.
+3. Editors/Reviewers interested to understand what AS, CT, B a new atlas publication adds.
+4. Funders/other decision makers that want to know what old/new AS, CT, B a proposed experiment adds.
 
 The visualization uses the ASCT+B Reporter at https://hubmapconsortium.github.io/ccf-asct-reporter to compare an ASCT+B table that documents all AS, CT, B used in a paper (or proposed experiment) to the most recent ASCT+B Master table.  
 
