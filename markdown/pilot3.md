@@ -54,5 +54,5 @@ Experimental data reported here is detailed in the paper “An atlas of healthy 
     </iframe>
 </div>
 
-when the visualization loads, sort the tissue bar graph by **sex**.
+Sort the tissue bar graph by **sex** to see the results.
 

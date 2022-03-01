@@ -38,6 +38,13 @@ The experimental skin data used here is detailed in “Human Digital Twin: Autom
 ### Visualization
 
 <div class="video-container">
-    <iframe src="https://juyingnan.github.io/vccf_visualization.io" height="450" width="100%" allowfullscreen="" frameborder="0">
+    <iframe src="https://juyingnan.github.io/vccf_visualization.io/html/region_5.html" height="450" width="100%" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
+
+<div class="video-container">
+    <iframe src="https://juyingnan.github.io/vccf_visualization.io/html/violin_cell.html" height="450" width="100%" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
+Try all the 10 skin samples [here](https://juyingnan.github.io/vccf_visualization.io).
