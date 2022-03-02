@@ -50,7 +50,7 @@ Experimental data reported here is detailed in the paper “[An atlas of healthy
 ### Visualization
 
 <div class="video-container">
-    <img src="../img/pilot3.png" height="450" width="100%" allowfullscreen="" frameborder="0">
+    <img src="../img/pilot3.png" height="450"  allowfullscreen="" frameborder="0">
     </img>
 </div>
 

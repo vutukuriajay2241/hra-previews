@@ -97,6 +97,11 @@ html, body {
     align-items: center;
     line-height: 0;
   }
+
+  .video-container {
+    display: flex;
+    justify-content: center;
+  }
   
   .main-header .main-logo .logo {
     margin-left: 1rem;
