@@ -50,11 +50,11 @@ Experimental data reported here is detailed in the paper “[An atlas of healthy
 ### Visualization
 
 <div class="video-container">
-    <img src="../img/pilot3.png" height="450"  allowfullscreen="" frameborder="0">
+    <img src="../img/pilot3.png" height="450">
     </img>
 </div>
 
 Sort the tissue bar graph by **sex** to see the results.
 
-Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/tissue-bar-graphs/" >new window.</a>
+Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/tissue-bar-graphs/preview" >new window.</a>
 
