@@ -4,7 +4,7 @@ HuBMAP Atlas Previews demonstrate functionality and resources that will become a
 
 ### Description
 
-This preview compares experimental data used in the “Human Digital Twin: Automated Cell Type Distance Computation and 3D Atlas Construction in Multiplexed Skin Biopsies” paper to the anatomical structures, cell types, and biomarkers in the skin master ASCT+B table, [see also](https://hubmapconsortium.github.io/ccf-releases/v1.1/docs/asct-b/skin.html).
+This preview compares experimental data used in the “Human Digital Twin: Automated Cell Type Distance Computation and 3D Atlas Construction in Multiplexed Skin Biopsies” paper to the anatomical structures, cell types, and biomarkers in the [skin master ASCT+B table](https://hubmapconsortium.github.io/ccf-releases/v1.1/docs/asct-b/skin.html).
 
 This so-called ASCT+B Reporter Comparison visualization was designed for different stakeholders:
 
@@ -43,8 +43,8 @@ The experimental skin data used here is detailed in “Human Digital Twin: Autom
 ### Visualization
 
 <div class="video-container">
-    <iframe src="https://hubmapconsortium.github.io/ccf-asct-reporter/vis?selectedOrgans=skin-v1.1&playground=false&comparisonCSVURL=https:%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1ebxX1VmZXrxjfxZC8DdxtPjTGQLId9NBja71ii939c8%2Fedit%23gid%3D0&comparisonColor=%23ff8000" height="450" width="100%" allowfullscreen="" frameborder="0">
-    </iframe>
+    <img src="../img/pilot1.png" height="450" width="100%">
+    </img>
 </div>
 
 Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/ccf-asct-reporter/vis?selectedOrgans=skin-v1.1&playground=false&comparisonCSVURL=https:%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1ebxX1VmZXrxjfxZC8DdxtPjTGQLId9NBja71ii939c8%2Fedit%23gid%3D0&comparisonColor=%23ff8000" >new window.</a>

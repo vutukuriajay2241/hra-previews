@@ -5,7 +5,7 @@ HuBMAP Atlas Previews demonstrate functionality and resources that will become a
 
 ### Description
 
-The “An atlas of healthy and injured cell states and niches in the human kidney” [paper](https://www.biorxiv.org/content/10.1101/2021.07.28.454201v1), uses Human Biomolecular Atlas Program (HuBMAP) and the Kidney Precision Medicine Project (KPMP) data to create a high quality kidney atlas. The 21 tissue blocks used in the paper contain 64,693 kidney nuclei (10x Genomics snRNA-seq) from healthy reference states across 13 patient donors. Samples were derived from nephrectomy, biopsy, or deceased donor tissue, spanning three anatomical regions: medulla, cortex and papilla. See information on [kidney Azimuth reference](https://azimuth.hubmapconsortium.org/references/#Human%20-%20Kidney). 
+The “[An atlas of healthy and injured cell states and niches in the human kidney](https://www.biorxiv.org/content/10.1101/2021.07.28.454201v1)”, uses Human Biomolecular Atlas Program (HuBMAP) and the Kidney Precision Medicine Project (KPMP) data to create a high quality kidney atlas. The 21 tissue blocks used in the paper contain 64,693 kidney nuclei (10x Genomics snRNA-seq) from healthy reference states across 13 patient donors. Samples were derived from nephrectomy, biopsy, or deceased donor tissue, spanning three anatomical regions: medulla, cortex and papilla. See information on [kidney Azimuth reference](https://azimuth.hubmapconsortium.org/references/#Human%20-%20Kidney). 
 
 The kidney Azimuth reference was cross-walked to the kidney ASCT+B table using this manually compiled [lookup table](https://github.com/hubmapconsortium/azimuth-annotate/blob/main/data/kidney.json). The result is an “augmented kidney ASCT+B table” with information on the number of cells per cell type (percentage per total can be computed from that).  
 
@@ -19,11 +19,11 @@ As atlas quality and coverage increase, atlas predictions will align with tissue
 
 Azimuth is a web application that uses an annotated reference dataset to automate the processing, analysis, and interpretation of a new single-cell RNA-seq experiment. Azimuth leverages a 'reference-based mapping' pipeline that inputs a counts matrix of gene expression in single cells, and performs normalization, visualization, cell annotation, and differential expression (biomarker discovery). All results can be explored within the app, and easily downloaded for additional downstream analysis.  
 
-The Human Reference Atlas (HRA) aims to map all of the cells of the human body to advance biomedical research and clinical practice. Please see Perspective [paper](https://www.nature.com/articles/s41556-021-00788-6) that presents collaborative work by members of 16 international consortia on two essential and interlinked parts of the HRA: (1) three-dimensional representations of anatomy that are linked to (2) tables that name and interlink major anatomical structures, cell types, plus biomarkers (ASCT+B). The paper also discusses four examples that demonstrate the practical utility of the HRA.   
+The Human Reference Atlas (HRA) aims to map all of the cells of the human body to advance biomedical research and clinical practice. Please see [Perspective paper](https://www.nature.com/articles/s41556-021-00788-6) that presents collaborative work by members of 16 international consortia on two essential and interlinked parts of the HRA: (1) three-dimensional representations of anatomy that are linked to (2) tables that name and interlink major anatomical structures, cell types, plus biomarkers (ASCT+B). The paper also discusses four examples that demonstrate the practical utility of the HRA.   
 
 ### Experimental Data Details
 
-Experimental data reported here is detailed in the paper “An atlas of healthy and injured cell states and niches in the human kidney”,  is available [here](https://www.biorxiv.org/content/10.1101/2021.07.28.454201v1). 
+Experimental data reported here is detailed in the paper “[An atlas of healthy and injured cell states and niches in the human kidney](https://www.biorxiv.org/content/10.1101/2021.07.28.454201v1)”. 
 
 ### Contributors
 
@@ -50,9 +50,11 @@ Experimental data reported here is detailed in the paper “An atlas of healthy 
 ### Visualization
 
 <div class="video-container">
-    <iframe src="https://hubmapconsortium.github.io/tissue-bar-graphs/" height="450" width="100%" allowfullscreen="" frameborder="0">
-    </iframe>
+    <img src="../img/pilot3.png" height="450" width="100%" allowfullscreen="" frameborder="0">
+    </img>
 </div>
 
 Sort the tissue bar graph by **sex** to see the results.
+
+Open the visualization in <a target="_blank" href="https://hubmapconsortium.github.io/tissue-bar-graphs/" >new window.</a>
 
