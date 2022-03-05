@@ -150,7 +150,7 @@ Open the visualization in <a target="_blank" href="https://juyingnan.github.io/v
         <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/violin_cell_all.html" >
         <img src="../img/violinCellAll.png" alt="violinCellAll" style="width:100%">
         </a>
-        <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/violin_cell_all.html" >new window.</a>
+        <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/violin_cell_all_region.html" >new window.</a>
     </div>
     <div id="ViolinDamage" class="tab-pane fade">
         <h3>Violin Damage</h3>
@@ -164,7 +164,7 @@ Open the visualization in <a target="_blank" href="https://juyingnan.github.io/v
         <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/violin_damage_all.html" >
         <img src="../img/violinDamageAll.png" alt="ViolinDamageAll" style="width:100%">
         </a>
-        <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/violin_damage_all.html" >new window.</a>
+        <p> Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/violin_damage_all_region.html" >new window.</a>
     </div>
 </div>
 
