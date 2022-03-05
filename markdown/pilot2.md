@@ -49,4 +49,81 @@ Open the visualization in <a target="_blank" href="https://juyingnan.github.io/v
 </div>
 Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/violin_cell.html" >new window.</a>
 
+<div class="container">
+  <ul class="nav nav-tabs">
+    <li class="active"><a data-toggle="tab" href="#region1">Region 1</a></li>
+    <li><a data-toggle="tab" href="#region2">Region 2</a></li>
+    <li><a data-toggle="tab" href="#region3">Region 3</a></li>
+    <li><a data-toggle="tab" href="#region4">Region 4</a></li>
+    <li><a data-toggle="tab" href="#region5">Region 5</a></li>
+    <li><a data-toggle="tab" href="#region7">Region 7</a></li>
+    <li><a data-toggle="tab" href="#region8">Region 8</a></li>
+    <li><a data-toggle="tab" href="#region9">Region 9</a></li>
+    <li><a data-toggle="tab" href="#region10">Region 10</a></li>
+    <li><a data-toggle="tab" href="#region11">Region 11</a></li>
+    <li><a data-toggle="tab" href="#violincell">Violin Cell</a></li>
+    <li><a data-toggle="tab" href="#violinCellAll">Violin Cell All Region</a></li>
+    <li><a data-toggle="tab" href="#ViolinDamage">Violin Damage</a></li>
+     <li><a data-toggle="tab" href="#ViolinDamageAll">Violin Damage All Region</a></li>
+  </ul>
+
+  <div class="tab-content">
+    <div id="region1" class="tab-pane fade in active">
+      <h3>Region 1</h3>
+      <img src="../img/region1.png" alt="region1" style="width:100%">
+    </div>
+    <div id="region2" class="tab-pane fade">
+      <h3>Region 2</h3>
+      <img src="../img/region2.png" alt="region2" style="width:100%">
+  </div>
+    <div id="region3" class="tab-pane fade">
+      <h3>Region 3</h3>
+      <img src="../img/region3.png" alt="region3" style="width:100%">
+    </div>
+    <div id="region4" class="tab-pane fade">
+      <h3>Region 4</h3>
+      <img src="../img/region4.png" alt="region4" style="width:100%">
+    </div>
+    <div id="region5" class="tab-pane fade">
+      <h3>Region 5</h3>
+      <img src="../img/region5.png" alt="region5" style="width:100%">
+    </div>
+    <div id="region7" class="tab-pane fade">
+      <h3>Region 7</h3>
+      <img src="../img/region7.png" alt="region7" style="width:100%">
+    </div>
+    <div id="region8" class="tab-pane fade">
+      <h3>Region 8</h3>
+      <img src="../img/region8.png" alt="region8" style="width:100%">
+    </div>
+    <div id="region9" class="tab-pane fade">
+      <h3>Region 9</h3>
+      <img src="../img/region9.png" alt="region9" style="width:100%">
+    </div>
+    <div id="region10" class="tab-pane fade">
+      <h3>Region 10</h3>
+      <img src="../img/region10.png" alt="region10" style="width:100%">
+    </div>
+    <div id="region11" class="tab-pane fade">
+      <h3>Region 11</h3>
+      <img src="../img/region11.png" alt="region11" style="width:100%">
+    </div>
+    <div id="violincell" class="tab-pane fade">
+        <h3>Violin Cell</h3>
+        <img src="../img/violincell.png" alt="violincell" style="width:100%">
+    </div>
+    <div id="violinCellAll" class="tab-pane fade">
+        <h3>Violin Cell All Region</h3>
+        <img src="../img/violinCellAll.png" alt="violinCellAll" style="width:100%">
+    </div>
+    <div id="ViolinDamage" class="tab-pane fade">
+        <h3>Violin Damage</h3>
+        <img src="../img/violinDamage.png" alt="ViolinDamage" style="width:100%">
+    </div>
+    <div id="ViolinDamageAll" class="tab-pane fade">
+        <h3>Violin Damage All Region</h3>
+        <img src="../img/violinDamageAll.png" alt="ViolinDamageAll" style="width:100%">
+    </div>
+</div>
+
 Try all the 10 skin samples [here](https://juyingnan.github.io/vccf_visualization.io).
