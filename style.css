@@ -1,15 +1,15 @@
 html, body {
-    margin: 0;
-    padding: 0;
+    margin: 0 !important;
+    padding: 0 !important;
   }
   
   body {
     background-color: rgba(250,250,250,1);
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif !important;
   }
   
   .main, .main-header, .main-footer {
-    box-sizing: border-box;
+    box-sizing: border-box !important;
   }
   
   .main {
