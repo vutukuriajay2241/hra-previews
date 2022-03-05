@@ -37,19 +37,7 @@ The experimental skin data used here is detailed in “Human Digital Twin: Autom
 
 ### Visualization
 
-<!-- <div class="video-container">
-    <iframe src="https://juyingnan.github.io/vccf_visualization.io/html/region_5.html" height="450" width="100%" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>
-Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/region_5.html" >new window.</a>
-
-<div class="video-container">
-    <iframe src="https://juyingnan.github.io/vccf_visualization.io/html/violin_cell.html" height="450" width="100%" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>
-Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/violin_cell.html" >new window.</a> -->
-
-<div class="bootstrap">
+<div class="tabs-nav">
   <ul class="nav nav-tabs">
     <li class="active"><a data-toggle="tab" href="#region1">Region 1</a></li>
     <li><a data-toggle="tab" href="#region2">Region 2</a></li>
