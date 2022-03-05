@@ -49,7 +49,7 @@ Open the visualization in <a target="_blank" href="https://juyingnan.github.io/v
 </div>
 Open the visualization in <a target="_blank" href="https://juyingnan.github.io/vccf_visualization.io/html/violin_cell.html" >new window.</a> -->
 
-<div>
+<div class="bootstrap">
   <ul class="nav nav-tabs">
     <li class="active"><a data-toggle="tab" href="#region1">Region 1</a></li>
     <li><a data-toggle="tab" href="#region2">Region 2</a></li>
