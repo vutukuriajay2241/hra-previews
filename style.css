@@ -155,10 +155,6 @@ html, body {
     text-decoration: none;
   }
   
-  .main .tabs-nav a:link, .main .tabs-nav a:visited {
-    color: rgba(68, 76, 101, 1);
-  }
-  
   .main a:hover {
     background-color: #fafafa;
     text-decoration: underline;
